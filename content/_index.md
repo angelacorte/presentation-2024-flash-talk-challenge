@@ -1,7 +1,7 @@
 +++
 
-title = "Guide for writing markdown slides"
-description = "A Hugo theme for creating Reveal.js presentations"
+title = "Choose title for the Flash Talk Challenge"
+description = "Presentation for the 2024 Flash Talk Challenge"
 outputs = ["Reveal"]
 
 +++
