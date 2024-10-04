@@ -6,6 +6,10 @@ outputs = ["Reveal"]
 
 +++
 
+{{< slide background-image="./images/first-page.pdf">}}
+
+---
+
 # Title
 
 [**Angela Cortecchia**](mailto:angela.cortecchia@unibo.it)
