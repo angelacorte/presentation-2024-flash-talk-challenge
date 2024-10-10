@@ -6,7 +6,7 @@ outputs = ["Reveal"]
 
 +++
 
-{{< slide background-image="./images/first-page.pdf">}}
+{{< slide background-image="./images/first-page.png">}}
 
 <!-- ---
 
