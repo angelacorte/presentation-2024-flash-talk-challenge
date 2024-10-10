@@ -1,6 +1,6 @@
 baseURL = "https://angelacorte.github.io/presentation-2024-flash-talk-challenge"
 languageCode = "en-us"
-title = "Presentation for the 2024 Flash Talk Challenge"
+title = "Towards Collective Operating Systems through Aggregate Computing"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
